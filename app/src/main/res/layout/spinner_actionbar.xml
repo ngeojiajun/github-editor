@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv"
+    android:layout_width="fill_parent"
+    android:padding="15sp"
+    android:minWidth="30sp"
+    android:singleLine="true"
+    android:gravity="center"
+    style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+    android:textColor="?colorOnPrimary"
+    android:background="@drawable/list_item_selector_actionbar"
+    android:layout_height="fill_parent"/>

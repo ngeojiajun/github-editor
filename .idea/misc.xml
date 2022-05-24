@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-projects/app/src/main/res/drawable/list_item_selector.xml" value="0.137" />
+        <entry key="..\:/android-projects/app/src/main/res/drawable/list_item_selector_actionbar.xml" value="0.137" />
+        <entry key="..\:/android-projects/app/src/main/res/drawable/repository.xml" value="0.137" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/activity_login.xml" value="0.24547101449275363" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/activity_repositories.xml" value="0.24547101449275363" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/activity_repository_content.xml" value="0.1265625" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/activity_text_editor.xml" value="0.24547101449275363" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/commit_name.xml" value="0.24547101449275363" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/item_repository.xml" value="0.24547101449275363" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/layout_save_dialog.xml" value="0.4" />
+        <entry key="..\:/android-projects/app/src/main/res/layout/spinner_actionbar.xml" value="0.25" />
+        <entry key="..\:/android-projects/app/src/main/res/menu/menu_editor.xml" value="0.27447916666666666" />
+        <entry key="..\:/android-projects/app/src/main/res/menu/menu_entry_list.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
